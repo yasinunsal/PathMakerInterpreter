@@ -1,0 +1,20 @@
+if <*>
+{
+    go <*>;
+    if<erdem>
+    {
+        make<a/b>;
+        go <erdem>;
+    }
+}
+make<yasin/unsal>;
+go<yasin/unsal>;
+ifnot<erdem> make<erdem>;
+if<*/*/*/*/*>
+{
+    go<*/*/*/*/*>; make<c/d>;
+}
+if<c/d> make<cobanoglu>;
+go<cobanoglu>;
+make<dir1/dir2/dir3/dir4>;
+go<dir1/dir2/dir3/dir4>;

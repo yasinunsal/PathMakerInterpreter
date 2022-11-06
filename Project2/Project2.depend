@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592317243 source:c:\users\yasin\desktop\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<ctype.h>
+	<io.h>
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+
